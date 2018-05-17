@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/add"
+        android:icon="@drawable/ic_plus_one_black_24dp"
+        android:title="@+id/add"
+        app:showAsAction="always"
+        android:onClick="doThis"
+        />
+
+</menu>
